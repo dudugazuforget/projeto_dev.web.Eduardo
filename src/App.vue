@@ -31,5 +31,14 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+.listagem-livros p{
+  margin: 0;
+}
+.listagem-livros .livro-titulo{
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+
+}
 </style>
 
